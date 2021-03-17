@@ -1,0 +1,394 @@
+ultiMC version: 0.6.11-1430
+
+
+Minecraft folder is:
+C:/Users/arthu/Desktop/MultiMC/instances/fabric ---/.minecraft
+
+
+Java path is:
+C:/Program Files (x86)/Common Files/Oracle/Java/javapath/javaw.exe
+
+
+Java is version 1.8.0_271, using 64-bit architecture.
+
+
+Main Class:
+  net.fabricmc.loader.launch.knot.KnotClient
+
+Native path:
+  C:/Users/arthu/Desktop/MultiMC/instances/fabric ---/natives
+
+Traits:
+traits FirstThreadOnMacOS
+traits XR:Initial
+
+Libraries:
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/com/mojang/patchy/1.1/patchy-1.1.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/com/ibm/icu/icu4j/66.1/icu4j-66.1.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/com/mojang/datafixerupper/4.0.26/datafixerupper-4.0.26.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/com/mojang/authlib/2.1.28/authlib-2.1.28.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.8.1/log4j-api-2.8.1.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.8.1/log4j-core-2.8.1.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/net/fabricmc/intermediary/1.16.5/intermediary-1.16.5.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/net/fabricmc/tiny-mappings-parser/0.2.2.14/tiny-mappings-parser-0.2.2.14.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/net/fabricmc/sponge-mixin/0.9.2+mixin.0.8.2/sponge-mixin-0.9.2+mixin.0.8.2.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/net/fabricmc/tiny-remapper/0.3.0.70/tiny-remapper-0.3.0.70.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/net/fabricmc/access-widener/1.0.0/access-widener-1.0.0.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/net/fabricmc/fabric-loader-sat4j/2.3.5.4/fabric-loader-sat4j-2.3.5.4.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/com/google/jimfs/jimfs/1.2-fabric/jimfs-1.2-fabric.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/ow2/asm/asm/9.1/asm-9.1.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/net/fabricmc/fabric-loader/0.11.3/fabric-loader-0.11.3.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/com/mojang/minecraft/1.16.5/minecraft-1.16.5-client.jar
+
+Native libraries:
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-windows.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-windows.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-windows.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-windows.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-windows.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-windows.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-windows.jar
+  C:/Users/arthu/Desktop/MultiMC/libraries/com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-windows.jar
+
+Mods:
+  [✔️] Adorn-1.13.0+1.16.5(1)
+  [✔️] adventurez-1.2.0
+  [✔️] agape_space-0.0.8
+  [✔️] autoswitch-3.0.0-alpha.9
+  [✔️] BetterCaves-Fabric-1.16.5-1.1
+  [✔️] blastproof_netherite-1.16.4
+  [✔️] byg-1.1.7
+  [✔️] carrier-1.7.4
+  [✔️] cauldron-riptide-1.0.1-mc1.16.4-fabric
+  [✔️] cavebiomes-0.6.2
+  [✔️] cloth-config-4.11.15-fabric
+  [✔️] cspirit-1.0.0+mc.1.16.4
+  [✔️] darkness-mc116-1.6.58
+  [✔️] fabric-api-0.29.0+1.16
+  [✔️] fabric-language-kotlin-1.5.0+kotlin.1.4.31
+  [✔️] FallingTree-Fabric-1.16.5-2.10.2
+  [✔️] GreaterEye-Fabric_1.16.5-1.1.5
+  [✔️] hard-hat-steve-1.2.0
+  [❌] icarus-1.1.jar (disabled)
+  [✔️] immersive-portals-0.80-mc1.16.5-fabric
+  [✔️] lavasponge-1.0.1
+  [✔️] monsters-in-the-closet-1.0.0+1.16
+  [✔️] mooblooms-1.4.0
+  [✔️] more-totems-mod-2.7.3
+  [✔️] netherite-items-1.1.0
+  [✔️] PresenceFootsteps-r29+1.16.4
+  [✔️] repurposed_structures-1.16.5-1.9.0
+  [✔️] RingsOfAscension-1.16.3-1.0.7
+  [✔️] torohealth-1.16.4-forge-4
+  [✔️] Trinkets-Mod-Fabric-1.16.5
+  [✔️] vanilladeathchest-1.16.3-1.11.0.7-fabric(1)
+  [✔️] VanillaTweaks-1.16.4-1.0.6
+  [✔️] YungsApi-1.16.5-Fabric-2
+
+Params:
+  --username  --version MultiMC5 --gameDir C:/Users/arthu/Desktop/MultiMC/instances/fabric ---/.minecraft --assetsDir C:/Users/arthu/Desktop/MultiMC/assets --assetIndex 1.16 --uuid  --accessToken  --userType  --versionType release
+
+Window size: 854 x 480
+
+Java Arguments:
+[-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Xms512m, -Xmx1024m, -Duser.language=en]
+
+
+Minecraft process ID: 11836
+
+
+Using onesix launcher.
+
+[19:23:54] [main/INFO]: Loading for game Minecraft 1.16.5
+[19:23:54] [ForkJoinPool-1-worker-1/WARN]: The mod "libcd" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 9 column 12
+[19:23:55] [ForkJoinPool-1-worker-2/WARN]: Non-Fabric mod JAR at "C:\Users\arthu\Desktop\MultiMC\instances\fabric ---\.minecraft\mods\torohealth-1.16.4-forge-4.jar", ignoring
+[19:23:55] [ForkJoinPool-1-worker-3/WARN]: The mod "cardinal-components-base" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[19:23:55] [ForkJoinPool-1-worker-3/WARN]: The mod "cardinal-components-entity" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[19:23:55] [main/INFO]: [FabricLoader] Loading 107 mods: fabric-keybindings-v0@0.2.0+6a2618f53a, trinkets@2.6.7, fabricloader@0.11.3, org_jetbrains_kotlinx_kotlinx-serialization-json-jvm@1.1.0, fabric-dimensions-v1@2.0.1+9a6c75813a, java@8, fabric-game-rule-api-v1@1.0.5+cbe9176f3a, agape_space@0.0.8, adventurez@1.2.0, bettercaves@1.16.5-1.1, fabric-api-base@0.2.0+ab87788d3a, darkness@1.6.58, yungsapi@1.16.5-Fabric-2, com_moandjiezana_toml_toml4j@0.7.2, org_jetbrains_kotlin_kotlin-stdlib@1.4.31, fabric-blockrenderlayer-v1@1.1.4+6a2618f53a, org_jetbrains_kotlin_kotlin-stdlib-jdk7@1.4.31, moretotems@2.7.3, lavasponge@1.0.1, fabric@0.29.0+1.16, fabric-networking-v0@0.3.1+2a4333d33a, imm_ptl_core@0.80, autoswitch-api@1.0.0, fabric-screen-handler-api-v1@1.1.0+6a2618f53a, tk_valoeghese_zoesteriaconfig@1.3.2, com_github_therandomlabs_trlutils-config@master-SNAPSHOT, repurposed_structures@1.16.5-1.9.0, modmenu@1.14.6+build.31, blastproof_netherite@1.16.4, greater_eye@1.1.5, org_jetbrains_kotlin_kotlin-stdlib-jdk8@1.4.31, monster-in-the-closet@1.0.0, fabric-tool-attribute-api-v1@1.2.5+6a2618f53a, angerable-patch@1.1.0-1.16.4, org_aeonbits_owner_owner@1.0.10, autoswitch@3.0.0-alpha.9, voyager@1.0.0, fabric-crash-report-info-v1@0.1.2+b7f9825d3a, fabric-events-interaction-v0@0.4.1+6a2618f53a, fabric-language-kotlin@1.5.0+kotlin.1.4.31, fabric-key-binding-api-v1@1.0.1+730711c63a, cloth-config2@4.11.15, org_jetbrains_kotlinx_kotlinx-coroutines-jdk8@1.4.2, hard-hat-steve@1.2.0, fabric-resource-loader-v0@0.4.0+552549d53a, org_jetbrains_kotlin_kotlin-reflect@1.4.31, cardinal-components-entity@2.7.5, fabric-commands-v0@0.2.1+cbe9176f3a, fabric-registry-sync-v0@0.7.3+be155ae23a, cardinal-components-base@2.7.5, adorn@1.13.0+1.16.5, cauldronriptide@1.0.1-mc1.16.4-fabric, fabric-mining-levels-v0@0.1.2+6a2618f53a, fabric-networking-api-v1@1.0.0+4358fbc63a, fallingtree@2.10.2, fabric-models-v0@0.2.0+cbe9176f3a, fabric-item-groups-v0@0.2.2+cbe9176f3a, netheritems@1.1.0, fabric-renderer-api-v1@0.4.0+cbe9176f3a, libcd@3.0.3+1.16.3, cavebiomes@0.6.2, fabric-structure-api-v1@1.1.3+cbe9176f3a, fabric-containers-v0@0.1.9+a03e98793a, fabric-object-builder-api-v1@1.9.2+6a2618f53a, ringsofascension@1.0.7, org_jetbrains_kotlinx_kotlinx-serialization-core-jvm@1.1.0, fabric-rendering-data-attachment-v1@0.1.4+6a2618f53a, vanillatweaks@1.16.4-1.0.6, fabric-textures-v0@1.0.5+6a2618f53a, com_electronwill_night-config_core@3.6.0, fabric-rendering-fluids-v1@0.1.12+6a2618f53a, reach-entity-attributes@1.0.1, fabric-lifecycle-events-v1@1.2.0+ffb68a873a, com_github_therandomlabs_trlutils-fabric@1.16-SNAPSHOT, fabric-renderer-registries-v1@2.2.0+6a2618f53a, immersive_portals@0.80, fabric-loot-tables-v1@1.0.1+6a2618f53a, cspirit@1.0.0+mc.1.16.4, fabric-particles-v1@0.2.3+cbe9176f3a, recipeconditions@0.4.0, fabric-networking-blockentity-v0@0.2.7+a03e98793a, minecraft@1.16.5, fabric-command-api-v1@1.0.9+6a2618f53a, jankson@3.0.1+j1.2.0, cloth-basic-math@0.5.1, fabric-renderer-indigo@0.4.3+6a2618f53a, org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm@1.4.2, com_electronwill_night-config_toml@3.6.0, fabric-item-api-v1@1.2.0+6a2618f53a, libgui@3.3.2+1.16.4, fabric-entity-events-v1@1.0.0+79b23bee3a, fabric-rendering-v0@1.1.1+6a2618f53a, fabric-rendering-v1@1.5.0+c26373133a, autoconfig1u@3.3.1, fabric-content-registries-v0@0.2.0+e77439c73a, mooblooms@1.4.0, fabric-tag-extensions-v0@1.1.0+e77439c73a, vanilladeathchest@1.16.3-1.11.0.7-fabric, fabric-biome-api-v1@3.1.0+2e23b97c3a, advanced_runtime_resource_pack@0.2.9, kirin@1.7-1.16.2, byg@1.1.7, carrier@1.7.4, fabric-events-lifecycle-v0@0.2.0+6a2618f53a, fabric-object-builders-v0@0.7.1+6a2618f53a, team_reborn_energy@0.1.1, presencefootsteps@r29+1.16.4
+[19:23:55] [main/WARN]: Mod `com_github_therandomlabs_trlutils-config` (master-SNAPSHOT) does not respect SemVer - comparison support is limited.
+[19:23:55] [main/WARN]: Mod `presencefootsteps` (r29+1.16.4) does not respect SemVer - comparison support is limited.
+[19:23:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/arthu/Desktop/MultiMC/libraries/net/fabricmc/sponge-mixin/0.9.2+mixin.0.8.2/sponge-mixin-0.9.2+mixin.0.8.2.jar Service=Knot/Fabric Env=CLIENT
+[19:23:56] [main/WARN]: Reference map 'GreaterEye-Fabric_1.16.5-refmap.json' for greater_eye.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:23:56] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in imm_ptl.mixins.json:common.entity_sync.MixinEntityTracker and should be specified in value
+[19:23:57] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-api-v1.mixins.json:accessor.EntityTrackerAccessor and should be specified in value
+[19:23:57] [main/INFO]: I used the json to destroy the json
+[19:24:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:24:10] [main/INFO]: Setting user: potatogd
+[19:24:10] [main/INFO]: [Agape Space Mod] Initializing
+[19:24:11] [main/INFO]: Creating directory for dimension-specific Better Caves configs at C:\Users\arthu\Desktop\MultiMC\instances\fabric ---\.minecraft\config\bettercaves\fabric-1_16
+[19:24:14] [main/INFO]: Start initialization
+[19:24:14] [main/INFO]: Initialization completed
+[19:24:14] [main/INFO]: Immersive Portals Mod Initializing
+[19:24:14] [main/INFO]: Reach entity attributes mod is present
+[19:24:14] [main/INFO]: Pehkui is not present
+[19:24:14] [main/INFO]: Generated configuration file "C:\Users\arthu\Desktop\MultiMC\instances\fabric ---\.minecraft\config\hard-hat-steve.properties"
+[19:24:19] [main/INFO]: [cave biomes] Your caves are cavier!
+[19:24:19] [main/INFO]: Setup Complete
+[19:24:19] [main/INFO]: Registered built-in conditions.
+[19:24:19] [main/INFO]: Registered mooblooms:dandelion_moobloom
+[19:24:19] [main/INFO]: Registered mooblooms:poppy_moobloom
+[19:24:19] [main/INFO]: Registered mooblooms:blue_orchid_moobloom
+[19:24:19] [main/INFO]: Registered mooblooms:allium_moobloom
+[19:24:19] [main/INFO]: Registered mooblooms:oxeye_daisy_moobloom
+[19:24:19] [main/INFO]: Registered mooblooms:cornflower_moobloom
+[19:24:19] [main/INFO]: Registered mooblooms:wither_rose_moobloom
+[19:24:19] [main/INFO]: Registered mooblooms:suncower
+[19:24:19] [main/INFO]: Registered mooblooms:bambmoo
+[19:24:19] [main/INFO]: Registered mooblooms:cowctus
+[19:24:19] [main/INFO]: Registered mooblooms:crimson_mooshroom
+[19:24:19] [main/INFO]: Registered mooblooms:warped_mooshroom
+[19:24:19] [main/INFO]: Registered mooblooms:red_cluckshroom
+[19:24:19] [main/INFO]: Registered mooblooms:brown_cluckshroom
+[19:24:19] [main/INFO]: Registered mooblooms:crimson_cluckshroom
+[19:24:19] [main/INFO]: Registered mooblooms:warped_cluckshroom
+[19:24:21] [main/INFO]: BYG: Blocks registered!
+[19:24:21] [main/INFO]: BYG: Items registered!
+[19:24:21] [main/ERROR]: No data fixer registered for byg:boat
+[19:24:21] [main/INFO]: BYG: Entities registered!
+[19:24:23] [main/INFO]: BYG: Biomes registered!
+[19:24:23] [main/INFO]: BYG: Decorators registered!
+[19:24:23] [main/INFO]: BYG: Features registered!
+[19:24:23] [main/INFO]: BYG: Surface builders Registered!
+[19:24:23] [main/INFO]: BYG: Registering block placer types!
+[19:24:23] [main/INFO]: Reading Sub-Biomes json
+[19:24:23] [main/INFO]: Reading json
+[19:24:23] [main/INFO]: Adding Numerical Biome ID's
+[19:24:24] [main/INFO]: Added Numerical Biome ID's!
+[19:24:24] [main/INFO]: BYG: "Common Setup" Event Complete!
+[19:24:24] [main/INFO]: BYG: Compostible Blocks Added!
+[19:24:24] [main/INFO]: BYG: Added Hoeable Blocks!
+[19:24:24] [main/INFO]: BYG: Added Flammables!
+[19:24:24] [main/INFO]: BYG: Added strippable Blocks...
+[19:24:24] [main/INFO]: BYG: "Load Complete" Event Complete!
+---- Minecraft Crash Report ----
+// I bet Cylons wouldn't have this problem.
+
+Time: 3/17/21 7:24 PM
+Description: Initializing game
+
+java.lang.RuntimeException: Could not execute entrypoint stage 'main' due to errors, provided by 'agape_space'!
+	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointUtils.invoke0(EntrypointUtils.java:53)
+	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointUtils.invoke(EntrypointUtils.java:36)
+	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointClient.start(EntrypointClient.java:32)
+	at net.minecraft.class_310.<init>(class_310.java:437)
+	at net.minecraft.client.main.Main.main(Main.java:177)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.fabricmc.loader.game.MinecraftGameProvider.launch(MinecraftGameProvider.java:226)
+	at net.fabricmc.loader.launch.knot.Knot.launch(Knot.java:146)
+	at net.fabricmc.loader.launch.knot.KnotClient.main(KnotClient.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196)
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231)
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+Caused by: java.lang.NoClassDefFoundError: software/bernie/geckolib3/GeckoLib
+	at agap.main.AgapeMod.onInitialize(AgapeMod.java:170)
+	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointUtils.invoke0(EntrypointUtils.java:50)
+	... 19 more
+Caused by: java.lang.ClassNotFoundException: software.bernie.geckolib3.GeckoLib
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at net.fabricmc.loader.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:168)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 21 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointUtils.invoke0(EntrypointUtils.java:53)
+	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointUtils.invoke(EntrypointUtils.java:36)
+	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointClient.start(EntrypointClient.java:32)
+	at net.minecraft.class_310.<init>(class_310.java:437)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.main.Main.main(Main.java:177)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.fabricmc.loader.game.MinecraftGameProvider.launch(MinecraftGameProvider.java:226)
+	at net.fabricmc.loader.launch.knot.Knot.launch(Knot.java:146)
+	at net.fabricmc.loader.launch.knot.KnotClient.main(KnotClient.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:196)
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:231)
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_271, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 405397416 bytes (386 MB) / 1026555904 bytes (979 MB) up to 1026555904 bytes (979 MB)
+	CPUs: 4
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m
+	Fabric Mods: 
+		adorn: Adorn 1.13.0+1.16.5
+		advanced_runtime_resource_pack: Runtime Resource Pack 0.2.9
+		adventurez: AdventureZ 1.2.0
+		agape_space: Agape Space Mod 0.0.8
+		angerable-patch: Angerable Patch 1.1.0-1.16.4
+		autoconfig1u: Auto Config v1 Updated 3.3.1
+		autoswitch: AutoSwitch 3.0.0-alpha.9
+		autoswitch-api: AutoSwitch API 1.0.0
+		bettercaves: YUNG's Better Caves 1.16.5-1.1
+		blastproof_netherite: Blastproof Netherite 1.16.4
+		byg: BYG 1.1.7
+		cardinal-components-base: Cardinal Components API (base) 2.7.5
+		cardinal-components-entity: Cardinal Components API (entities) 2.7.5
+		carrier: Carrier 1.7.4
+		cauldronriptide: Cauldron Riptide 1.0.1-mc1.16.4-fabric
+		cavebiomes: Cave Biomes 0.6.2
+		cloth-basic-math: Cloth Basic Math 0.5.1
+		cloth-config2: Cloth Config v4 4.11.15
+		com_electronwill_night-config_core: core 3.6.0
+		com_electronwill_night-config_toml: toml 3.6.0
+		com_github_therandomlabs_trlutils-config: TRLUtils-Config master-SNAPSHOT
+		com_github_therandomlabs_trlutils-fabric: TRLUtils-Fabric 1.16-SNAPSHOT
+		com_moandjiezana_toml_toml4j: toml4j 0.7.2
+		cspirit: Christmas Spirit 1.0.0+mc.1.16.4
+		darkness: True Darkness 1.6.58
+		fabric: Fabric API 0.29.0+1.16
+		fabric-api-base: Fabric API Base 0.2.0+ab87788d3a
+		fabric-biome-api-v1: Fabric Biome API (v1) 3.1.0+2e23b97c3a
+		fabric-blockrenderlayer-v1: Fabric BlockRenderLayer Registration (v1) 1.1.4+6a2618f53a
+		fabric-command-api-v1: Fabric Command API (v1) 1.0.9+6a2618f53a
+		fabric-commands-v0: Fabric Commands (v0) 0.2.1+cbe9176f3a
+		fabric-containers-v0: Fabric Containers (v0) 0.1.9+a03e98793a
+		fabric-content-registries-v0: Fabric Content Registries (v0) 0.2.0+e77439c73a
+		fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.1.2+b7f9825d3a
+		fabric-dimensions-v1: fabric-dimensions-v1 2.0.1+9a6c75813a
+		fabric-entity-events-v1: Fabric Entity Events (v1) 1.0.0+79b23bee3a
+		fabric-events-interaction-v0: Fabric Events Interaction (v0) 0.4.1+6a2618f53a
+		fabric-events-lifecycle-v0: Fabric Events Lifecycle (v0) 0.2.0+6a2618f53a
+		fabric-game-rule-api-v1: Fabric Game Rule API (v1) 1.0.5+cbe9176f3a
+		fabric-item-api-v1: Fabric Item API (v1) 1.2.0+6a2618f53a
+		fabric-item-groups-v0: Fabric Item Groups (v0) 0.2.2+cbe9176f3a
+		fabric-key-binding-api-v1: Fabric Key Binding API (v1) 1.0.1+730711c63a
+		fabric-keybindings-v0: Fabric Key Bindings (v0) 0.2.0+6a2618f53a
+		fabric-language-kotlin: Fabric Language Kotlin 1.5.0+kotlin.1.4.31
+		fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 1.2.0+ffb68a873a
+		fabric-loot-tables-v1: Fabric Loot Tables (v1) 1.0.1+6a2618f53a
+		fabric-mining-levels-v0: Fabric Mining Levels (v0) 0.1.2+6a2618f53a
+		fabric-models-v0: Fabric Models (v0) 0.2.0+cbe9176f3a
+		fabric-networking-api-v1: Fabric Networking API (v1) 1.0.0+4358fbc63a
+		fabric-networking-blockentity-v0: Fabric Networking Block Entity (v0) 0.2.7+a03e98793a
+		fabric-networking-v0: Fabric Networking (v0) 0.3.1+2a4333d33a
+		fabric-object-builder-api-v1: Fabric Object Builder API (v1) 1.9.2+6a2618f53a
+		fabric-object-builders-v0: Fabric Object Builders (v0) 0.7.1+6a2618f53a
+		fabric-particles-v1: Fabric Particles (v1) 0.2.3+cbe9176f3a
+		fabric-registry-sync-v0: Fabric Registry Sync (v0) 0.7.3+be155ae23a
+		fabric-renderer-api-v1: Fabric Renderer API (v1) 0.4.0+cbe9176f3a
+		fabric-renderer-indigo: Fabric Renderer - Indigo 0.4.3+6a2618f53a
+		fabric-renderer-registries-v1: Fabric Renderer Registries (v1) 2.2.0+6a2618f53a
+		fabric-rendering-data-attachment-v1: Fabric Rendering Data Attachment (v1) 0.1.4+6a2618f53a
+		fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 0.1.12+6a2618f53a
+		fabric-rendering-v0: Fabric Rendering (v0) 1.1.1+6a2618f53a
+		fabric-rendering-v1: Fabric Rendering (v1) 1.5.0+c26373133a
+		fabric-resource-loader-v0: Fabric Resource Loader (v0) 0.4.0+552549d53a
+		fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.1.0+6a2618f53a
+		fabric-structure-api-v1: Fabric Structure API (v1) 1.1.3+cbe9176f3a
+		fabric-tag-extensions-v0: Fabric Tag Extensions (v0) 1.1.0+e77439c73a
+		fabric-textures-v0: Fabric Textures (v0) 1.0.5+6a2618f53a
+		fabric-tool-attribute-api-v1: Fabric Tool Attribute API (v1) 1.2.5+6a2618f53a
+		fabricloader: Fabric Loader 0.11.3
+		fallingtree: FallingTree 2.10.2
+		greater_eye: Greater Eye of Ender 1.1.5
+		hard-hat-steve: Hard Hat Steve 1.2.0
+		imm_ptl_core: Immersive Portals Core 0.80
+		immersive_portals: Immersive Portals 0.80
+		jankson: Jankson 3.0.1+j1.2.0
+		java: Java HotSpot(TM) 64-Bit Server VM 8
+		kirin: Kirin UI 1.7-1.16.2
+		lavasponge: Lava Sponge 1.0.1
+		libcd: LibCapableData 3.0.3+1.16.3
+		libgui: LibGui 3.3.2+1.16.4
+		minecraft: Minecraft 1.16.5
+		modmenu: Mod Menu 1.14.6+build.31
+		monster-in-the-closet: Monsters in the Closet 1.0.0
+		mooblooms: Mooblooms 1.4.0
+		moretotems: More Totems 2.7.3
+		netheritems: Nether Items 1.1.0
+		org_aeonbits_owner_owner: owner 1.0.10
+		org_jetbrains_kotlin_kotlin-reflect: kotlin-reflect 1.4.31
+		org_jetbrains_kotlin_kotlin-stdlib: kotlin-stdlib 1.4.31
+		org_jetbrains_kotlin_kotlin-stdlib-jdk7: kotlin-stdlib-jdk7 1.4.31
+		org_jetbrains_kotlin_kotlin-stdlib-jdk8: kotlin-stdlib-jdk8 1.4.31
+		org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm: kotlinx-coroutines-core-jvm 1.4.2
+		org_jetbrains_kotlinx_kotlinx-coroutines-jdk8: kotlinx-coroutines-jdk8 1.4.2
+		org_jetbrains_kotlinx_kotlinx-serialization-core-jvm: kotlinx-serialization-core-jvm 1.1.0
+		org_jetbrains_kotlinx_kotlinx-serialization-json-jvm: kotlinx-serialization-json-jvm 1.1.0
+		presencefootsteps: Presence Footsteps r29+1.16.4
+		reach-entity-attributes: Reach Entity Attribute 1.0.1
+		recipeconditions: Fabric Recipe Conditions 0.4.0
+		repurposed_structures: Repurposed Structures 1.16.5-1.9.0
+		ringsofascension: Rings of Ascension 1.0.7
+		team_reborn_energy: Energy 0.1.1
+		tk_valoeghese_zoesteriaconfig: ZoesteriaConfig 1.3.2
+		trinkets: Trinkets 2.6.7
+		vanilladeathchest: VanillaDeathChest 1.16.3-1.11.0.7-fabric
+		vanillatweaks: VanillaTweaks 1.16.4-1.0.6
+		voyager: Voyager 1.0.0
+		yungsapi: YUNG's API 1.16.5-Fabric-2
+	Launched Version: MultiMC5
+	Backend library: LWJGL version 3.2.2 build 10
+	Backend API: NO CONTEXT
+	GL Caps: 
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fabric'
+	Type: Client (map_client.txt)
+	CPU: <unknown>
+#@!@# Game crashed! Crash report saved to: #@!@# C:\Users\arthu\Desktop\MultiMC\instances\fabric ---\.minecraft\crash-reports\crash-2021-03-17_19.24.24-client.txt
+Process exited with code -1.
